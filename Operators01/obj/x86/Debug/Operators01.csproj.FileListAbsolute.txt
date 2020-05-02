@@ -1,0 +1,5 @@
+/home/alex/Projects/Operators01/Operators01/bin/Debug/Operators01.exe
+/home/alex/Projects/Operators01/Operators01/bin/Debug/Operators01.pdb
+/home/alex/Projects/Operators01/Operators01/obj/x86/Debug/Operators01.csprojAssemblyReference.cache
+/home/alex/Projects/Operators01/Operators01/obj/x86/Debug/Operators01.exe
+/home/alex/Projects/Operators01/Operators01/obj/x86/Debug/Operators01.pdb
